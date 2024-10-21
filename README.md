@@ -1,3 +1,4 @@
 # PermitKYC
 
-Technology: ZkPass,Zk
+Technology: ZkPass.
+Verify user by mobile money history and usage
