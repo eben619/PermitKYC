@@ -1,1 +1,3 @@
 # PermitKYC
+
+Technology: ZkPass,Zk
